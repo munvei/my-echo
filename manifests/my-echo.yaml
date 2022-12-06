@@ -35,7 +35,7 @@ metadata:
     name: my-echo
 spec:
   rules:
-  - host: my-echo.192.168.59.100.nip.io
+  - host: my-echo.192.168.59.101.nip.io
     http:
       paths:
       - pathType: Prefix
