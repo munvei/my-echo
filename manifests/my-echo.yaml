@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: my-echo
-        image: ysakashita/my-echo:20221107
+        image: yoichi00/my-echo:20221206
 ---
 apiVersion: v1
 kind: Service
